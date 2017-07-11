@@ -1,0 +1,2 @@
+# kranthi
+mining pool
